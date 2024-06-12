@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Tinéni, an aspiring front-end developer learning at Ada Tech School (Paris)
-- 🌱 I’m currently learning Dart & Flutter 
-- 📫 How to reach me : btineni@gmail.com
+- 👋 Hi, I’m Tinéni, an aspiring full-stack developer learning at Ada Tech School (Paris)
+ 📫 How to reach me : btineni@gmail.com
 
 
