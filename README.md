@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Tinéni, an aspiring full-stack developer learning at Ada Tech School (Paris)
- 📫 How to reach me : btineni@gmail.com
-
+I'm Tinéni but you can call me Tini. 
 
